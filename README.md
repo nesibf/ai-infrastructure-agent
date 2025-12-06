@@ -429,15 +429,3 @@ This is a proof-of-concept project. While we've implemented safety measures like
 - Keep backups of critical infrastructure
 
 The authors are not responsible for any costs, data loss, or security issues that may arise from using this software.
-
----
-
-<div align="center">
-
-**Built with ❤️ by the DevOps VN Team**
-
-*Empowering infrastructure management through AI*
-
-[⭐ Star this repo](https://github.com/VersusControl/ai-infrastructure-agent) | [🐛 Report Bug](https://github.com/VersusControl/ai-infrastructure-agent/issues) | [💡 Request Feature](https://github.com/VersusControl/ai-infrastructure-agent/issues)
-
-</div>
